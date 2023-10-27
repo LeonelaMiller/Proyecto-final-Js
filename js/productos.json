@@ -1,0 +1,182 @@
+[
+    {
+        "id": "abrigo-01",
+        "titulo": "Campera Leuk 01",
+        "imagen": "./img/abrigos/DSC01783.jpg",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "abrigos"
+        },
+        "precio": 2210
+    },
+    {
+        "id": "abrigo-02",
+        "titulo": "Campera Filipinas",
+        "imagen": "./img/abrigos/filipinas2.jpeg",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "abrigos"
+        },
+        "precio": 3000
+    },
+    {
+        "id": "abrigo-03",
+        "titulo": "Chaleco Serpens",
+        "imagen": "./img/abrigos/serpens3.jpeg",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "abrigos"
+        },
+        "precio": 3400
+    },
+    {
+        "id": "abrigo-04",
+        "titulo": "Campera Seychelles",
+        "imagen": "./img/abrigos/seychelles1.jpeg",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "abrigos"
+        },
+        "precio": 3450
+    },
+    {
+        "id": "abrigo-05",
+        "titulo": "Camisa Toscana",
+        "imagen": "./img/abrigos/toscana2.jpeg",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "abrigos"
+        },
+        "precio": 4000
+    },
+    {
+        "id": "camiseta-01",
+        "titulo": "Remera Condado",
+        "imagen": "./img/camisetas/condado2.jpeg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 3000
+    },
+    {
+        "id": "camiseta-02",
+        "titulo": "Remera Jipe",
+        "imagen": "./img/camisetas/jipe-2.jpeg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 3200
+    },
+    {
+        "id": "camiseta-03",
+        "titulo": "Remera Jipe",
+        "imagen": "./img/camisetas/jipe-5.jpeg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 3250
+    },
+    {
+        "id": "camiseta-04",
+        "titulo": "Remera Kabele",
+        "imagen": "./img/camisetas/kabele-5.jpeg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 4000
+    },
+    {
+        "id": "camiseta-05",
+        "titulo": "Remera Keid",
+        "imagen": "./img/camisetas/keid-4.jpeg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 3600
+    },
+    {
+        "id": "camiseta-06",
+        "titulo": "Remera Nayarit",
+        "imagen": "./img/camisetas/nayarit3.jpg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 4360
+    },
+    {
+        "id": "camiseta-07",
+        "titulo": "Remera Onix",
+        "imagen": "./img/camisetas/onix-2.jpeg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 4200
+    },
+    {
+        "id": "camiseta-08",
+        "titulo": "Remera Cabral",
+        "imagen": "./img/camisetas/segovia-3.jpeg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 3900
+    },
+    {
+        "id": "pantalon-01",
+        "titulo": "Pantalón Cuarzo",
+        "imagen": "./img/pantalones/cuarzo-1.jpeg",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 5000
+    },
+    {
+        "id": "pantalon-02",
+        "titulo": "Short Matrix",
+        "imagen": "./img/pantalones/DSC03206.jpg",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 5400
+    },
+    {
+        "id": "pantalon-03",
+        "titulo": "Pantalón Kan",
+        "imagen": "./img/pantalones/DSC05701.jpeg",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 5900
+    },
+    {
+        "id": "pantalon-04",
+        "titulo": "Pantalón Epidota",
+        "imagen": "./img/pantalones/epidota-6.jpeg",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 6500
+    },
+    {
+        "id": "pantalon-05",
+        "titulo": "Pantalón Marinha",
+        "imagen": "./img/pantalones/marinha4.jpeg",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 6000
+    }
+]
